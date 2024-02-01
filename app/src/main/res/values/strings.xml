@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Сканер для табельного учёта ЛПА</string>
+    <string name="action_settings">Настройки</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Сканер для табельного учёта ЛПА</string>
+    <string name="qrscan">Сканировать\nQR-код</string>
+
+    <!-- Main menu -->
+    <string name="project">Проект</string>
+    <string name="status">\nСтатус</string>
+    <string name="send_to_server">Отправить данные</string>
+
+    <!-- Preference Titles -->
+    <string name="worker_header">Сотрудник</string>
+    <string name="connection_header">Соединение</string>
+    <string name="notifications_header">Уведомления</string>
+
+    <!-- Worker Preferences -->
+    <string name="worker_title">Табельный номер</string>
+
+    <!-- IP Preferences -->
+    <string name="address_title">IP адрес</string>
+    <string name="port_title">Порт</string>
+    <string name="timeout_title">Таймаут ожидания ответа от сервера, cек</string>
+    <string name="current_project">Текущий проект</string>
+
+    <!-- Notifications Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+    <string name="title_activity_settings">Настройки</string>
+
+</resources>
